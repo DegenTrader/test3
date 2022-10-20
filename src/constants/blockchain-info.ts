@@ -9,5 +9,8 @@ export const BlockchainInfo = {
     },
     [BLOCKCHAIN_NAME.AVALANCHE]: {
         id: 43114
-    }
+    },
+    [BLOCKCHAIN_NAME.ETHEREUM]: {
+        id: 1
+    },
 }
